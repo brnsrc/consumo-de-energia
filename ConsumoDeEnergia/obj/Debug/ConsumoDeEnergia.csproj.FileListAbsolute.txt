@@ -1,0 +1,10 @@
+D:\Code\Livro Dev Desktop\Cap3\ConsumoDeEnergia\ConsumoDeEnergia\bin\Debug\ConsumoDeEnergia.exe.config
+D:\Code\Livro Dev Desktop\Cap3\ConsumoDeEnergia\ConsumoDeEnergia\bin\Debug\ConsumoDeEnergia.exe
+D:\Code\Livro Dev Desktop\Cap3\ConsumoDeEnergia\ConsumoDeEnergia\bin\Debug\ConsumoDeEnergia.pdb
+D:\Code\Livro Dev Desktop\Cap3\ConsumoDeEnergia\ConsumoDeEnergia\obj\Debug\ConsumoDeEnergia.csprojAssemblyReference.cache
+D:\Code\Livro Dev Desktop\Cap3\ConsumoDeEnergia\ConsumoDeEnergia\obj\Debug\ConsumoDeEnergia.Form1.resources
+D:\Code\Livro Dev Desktop\Cap3\ConsumoDeEnergia\ConsumoDeEnergia\obj\Debug\ConsumoDeEnergia.Properties.Resources.resources
+D:\Code\Livro Dev Desktop\Cap3\ConsumoDeEnergia\ConsumoDeEnergia\obj\Debug\ConsumoDeEnergia.csproj.GenerateResource.cache
+D:\Code\Livro Dev Desktop\Cap3\ConsumoDeEnergia\ConsumoDeEnergia\obj\Debug\ConsumoDeEnergia.csproj.CoreCompileInputs.cache
+D:\Code\Livro Dev Desktop\Cap3\ConsumoDeEnergia\ConsumoDeEnergia\obj\Debug\ConsumoDeEnergia.exe
+D:\Code\Livro Dev Desktop\Cap3\ConsumoDeEnergia\ConsumoDeEnergia\obj\Debug\ConsumoDeEnergia.pdb
